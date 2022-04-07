@@ -24,3 +24,25 @@ Waktu pelaksanaan Seminar Tugas Akhir dilaksanakan berdasarkan keputusan Dosen P
 
 Jika seluruh berkas sudah siap, semua berkas dijadikan satu ([contoh](../main/Berkas/Example/Submit%20-%20Pengajuan%20Seminar.pdf)) dan dikirimkan ke [Form Pendaftaran Seminar](https://forms.office.com/Pages/ResponsePage.aspx?id=NQQpA3T_0UWuqhc2dyIc-Ai0q1n5FGFKk5DovX2uWAlUODU0UUtGUEtUWVNKUzhXUjZaMlhYRks1UyQlQCN0PWcu&fbclid=IwAR0Bnd0-1tBMTCFGoQbMxbGlRC9oLRW78mSeG-kURIBhb_cBH0YDGsURINE)
 
+## Pengajuan Sidang Tugas Akhir
+Berkas yang dibutuhkan untuk Pengajuan Sidang antara lain :
+
+- [Form Kehadiran Peserta Seminar TA-3](https://github.com/alvinzf/become-a-graduate-CE-Undip/blob/main/Berkas/3.%20Pengajuan%20Sidang/(TA-03)%20Form%20Kehadiran%20Peserta.docx)
+- [Nilai Seminar TA-4](https://github.com/alvinzf/become-a-graduate-CE-Undip/blob/main/Berkas/3.%20Pengajuan%20Sidang/(TA-04)%20Nilai%20Seminar%20TA.docx)
+- [Form Persetujuan TA-5](https://github.com/alvinzf/become-a-graduate-CE-Undip/blob/main/Berkas/3.%20Pengajuan%20Sidang/(TA-05)%20Form%20Persetujan%20Ujian%20TA.docx)
+
+Berkas tersebut dijadikan satu (contoh) dan dikirim ke [Form Pengajuan Sidang](https://forms.office.com/Pages/ResponsePage.aspx?id=NQQpA3T_0UWuqhc2dyIc-Ai0q1n5FGFKk5DovX2uWAlUOFRZMU42QjAxSFo1WUUxNEZFWDNOU1RaWCQlQCN0PWcu&fbclid=IwAR02L8_R3dO1tbsAXJIyUxljZv0x59Mj3i0jiOwly1w8PltQ0Ic2wYlgzPs) dan konfirmasikan ke Bu Ike.
+
+## Sidang Tugas Akhir
+Jadwal sidang diumumkan melalui [Facebook Departemen Teknik Komputer](https://www.facebook.com/dept.siskom.undip/) atau jika tidak kunjung muncul bisa menghubungi mas kita semua, mas Sidik :) Pelaksanaan sidang tidak dilakukan setiap bulan, tergantung apakah kuota sudah memenuhi atau belum (minimal 4 peserta sidang) dan dilakukan di akhir bulan. Sidang Tugas Akhir merupakan tahap Akhir dalam proses Pengerjaan Tugas Akhir. Dalam pelaksanaan Tugas Akhir akan dihadiri oleh Dosen Pembimbing 1, Peguji 1, Penguji 2 dan Mahasiswa. Mahasiswa wajib menghubungi Dosen yang mengikuti Sidang TA untuk diberikan undangan dan Laporan minimal H-3. Pada pelaksanaan Tugas Akhir diperlukan beberapa berkas antara lain:
+
+- Cetakan Laporan (x4 (3 untuk Dosen dan 1 untuk Mahasiswa))
+- [Berita Acara TA-6](https://github.com/alvinzf/become-a-graduate-CE-Undip/blob/main/Berkas/4.%20Pelaksanaan%20Sidang/(TA-06)%20Berita%20Acara%20Ujian%20TA.docx)
+- [Daftar Hadir TA-7](https://github.com/alvinzf/become-a-graduate-CE-Undip/blob/main/Berkas/4.%20Pelaksanaan%20Sidang/(TA-07)%20Daftar%20Hadir%20Ujian%20TA.docx)
+- Form Nilai [TA-8](https://github.com/alvinzf/become-a-graduate-CE-Undip/blob/main/Berkas/4.%20Pelaksanaan%20Sidang/(TA-08)%20Nilai%20Ujian%20TA.docx) [TA-9](https://github.com/alvinzf/become-a-graduate-CE-Undip/blob/main/Berkas/4.%20Pelaksanaan%20Sidang/(TA-09)%20Form%20Nilai%20TA.docx) [TA-10](https://github.com/alvinzf/become-a-graduate-CE-Undip/blob/main/Berkas/4.%20Pelaksanaan%20Sidang/(TA-10)%20Form%20Nilai%20TA.docx)
+
+Berkas-berkas (TA-6 TA-7 TA-8) dijadikan satu di stopmap.
+NB : kalo offline mahasiswa kebagian jatah Snack :)
+
+## Pasca Sidang
+Setelah sidang berakhir jika dinyatakan lulus maka 99% akan ada revisi yang harus dilakukan. Jika tidak lulus maka harus mengulang sidang di periode berikutnya. Masa revisi biasanya 3 minggu, namun lebih cepat lebih baik terutama yang dekat dengan periode wisuda. Jika sudah selesai, revisi bisa dikirimkan kembali ke Dosen Penguji. Jika sudah maka bisa minta atau mengingatkan Dosen Pembimbing 1 2 dan Dosen Penguji 1 2 untuk mengisikan nilai di SIAP Undip. Setelah nilai Tugas Akhir keluar di Transkrip, konfirmasikan syarat yang dibutuhkan untuk mendaftar Wisuda kepada mas Sidik, biasanya perlu konfirmasi Administrasi ke FT. Jika sudah semua maka tinggal menunggu Kaprodi untuk memverifikasi apakah sudah bisa dinyatakan Lulus atau belum. Jika status akademik di SIAP sudah berganti menjadi Lulus Studi, maka baru bisa mendaftar wisuda yang dilakukan 4 kali setahun (Februari, April, Agustus, November) .
