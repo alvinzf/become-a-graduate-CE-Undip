@@ -22,7 +22,7 @@ Selama proses pengerjaan Tugas Akhir, akan dilakukan bimbingan sesuai dengan keb
 Seminar Tugas Akhir dapat dilakukan setelah selesai mengerjakan Tugas Akhir dengan tambahan beberapa syarat sebagai berikut:
   
 - [Form TA-2](https://github.com/alvinzf/become-a-graduate-CE-Undip/blob/main/Berkas/2.%20Pengajuan%20Seminar%20TA/(TA-2)%20Form%20Permohonan%20Seminar%20.doc)
-- [Toefl](https://seu.apps.undip.ac.id/)
+- Toefl, [panduan](../main/Panduan_Toefl_Mandiri.MD)
 - Halaman Pengesahan Laporan TA
 - Kartu TA (Minimal mengikuti 10x seminar sebelumnya)
 - Form Verifikasi Nilai
