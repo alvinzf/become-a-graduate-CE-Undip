@@ -3,7 +3,7 @@ Tahapan dan berkas yang diperlukan dalam menyelesaikan Tugas Akhir hingga Wisuda
 
 ---
 
-Important (will added later)
+Important (will be added later)
 
 ---
 ### Pengajuan dan Pendaftaran Tugas Akhir
