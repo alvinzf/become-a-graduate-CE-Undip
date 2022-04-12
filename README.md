@@ -1,5 +1,5 @@
 ## Langkah Lulus Dari Teknik Komputer Universitas Diponegoro
-Tahapan dan berkas yang diperlukan dalam menyelesaikan Tugas Akhir hingga Wisuda
+Tahapan dan berkas yang diperlukan dalam menyelesaikan Tugas Akhir hingga Wisuda. Silahkan ajukan Pull Request apabila ada update atau kesalahan informasi. Happy reading ^^
 
 ---
 
