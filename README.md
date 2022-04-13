@@ -20,7 +20,8 @@ Selama proses pengerjaan Tugas Akhir, akan dilakukan bimbingan sesuai dengan keb
 
 ## Seminar Tugas Akhir
 Seminar Tugas Akhir dapat dilakukan setelah selesai mengerjakan Tugas Akhir dengan tambahan beberapa syarat sebagai berikut:
-  
+ 
+- Undangan
 - [Form TA-2](https://github.com/alvinzf/become-a-graduate-CE-Undip/blob/main/Berkas/2.%20Pengajuan%20Seminar%20TA/(TA-2)%20Form%20Permohonan%20Seminar%20.doc)
 - Toefl, [panduan](../main/Panduan_Toefl_Mandiri.MD)
 - Halaman Pengesahan Laporan TA
@@ -49,6 +50,7 @@ Berkas tersebut dijadikan satu (contoh) dan dikirim ke [Form Pengajuan Sidang](h
 ## Sidang Tugas Akhir
 Jadwal sidang diumumkan melalui [Facebook Departemen Teknik Komputer](https://www.facebook.com/dept.siskom.undip/) atau jika tidak kunjung muncul bisa menghubungi mas kita semua, mas Sidik :) Pelaksanaan sidang tidak dilakukan setiap bulan, tergantung apakah kuota sudah memenuhi atau belum (minimal 4 peserta sidang) dan dilakukan di akhir bulan. Sidang Tugas Akhir merupakan tahap Akhir dalam proses Pengerjaan Tugas Akhir. Dalam pelaksanaan Tugas Akhir akan dihadiri oleh Dosen Pembimbing 1, Peguji 1, Penguji 2 dan Mahasiswa. Mahasiswa wajib menghubungi Dosen yang mengikuti Sidang TA untuk diberikan undangan dan Laporan minimal H-3. Pada pelaksanaan Tugas Akhir diperlukan beberapa berkas antara lain:
 
+- Undangan
 - Cetakan Laporan (x4 (3 untuk Dosen dan 1 untuk Mahasiswa))
 - [Berita Acara TA-6](https://github.com/alvinzf/become-a-graduate-CE-Undip/blob/main/Berkas/4.%20Pelaksanaan%20Sidang/(TA-06)%20Berita%20Acara%20Ujian%20TA.docx)
 - [Daftar Hadir TA-7](https://github.com/alvinzf/become-a-graduate-CE-Undip/blob/main/Berkas/4.%20Pelaksanaan%20Sidang/(TA-07)%20Daftar%20Hadir%20Ujian%20TA.docx)
