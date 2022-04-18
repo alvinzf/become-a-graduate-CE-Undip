@@ -3,7 +3,9 @@ Tahapan dan berkas yang diperlukan dalam menyelesaikan Tugas Akhir hingga Wisuda
 
 ---
 
-Important (will be added later)
+Important
+- [Panduan](../main/Pedoman-TA-Siskom-2014.pdf)
+- [Chat BOT](https://api.whatsapp.com/send/?phone=%2B6281391366399&text&app_absent=0)
 
 ---
 ### Pengajuan dan Pendaftaran Tugas Akhir
