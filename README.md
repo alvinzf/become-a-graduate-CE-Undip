@@ -30,7 +30,7 @@ Seminar Tugas Akhir dapat dilakukan setelah selesai mengerjakan Tugas Akhir deng
 - Kartu TA (Minimal mengikuti 10x seminar sebelumnya)
 - Form Verifikasi Nilai
 
-Form verifikasi nilai didapatkan setelah **seluruh nilai Mata Kuliah Wajib sudah keluar dan memenuhi syarat minimal mata kuliah pilihan**. Isi [Form Verifikasi Nilai](https://docs.google.com/forms/d/e/1FAIpQLSdqMnUhSqTFtpYAbUzgfi39f9k_DBKw3LF5G9ZM72mi95-Dxg) kemudian konfirmasi ke [Mas Erwan](https://api.whatsapp.com/send/?phone=%2B6285640156540&text&app_absent=0). Jika sudah diverifikasi maka hasil verifikasi akan dikirimkan ke Email yang dimasukkan saat mengisi form.
+Form verifikasi nilai didapatkan setelah **seluruh nilai Mata Kuliah Wajib sudah keluar dan memenuhi syarat minimal mata kuliah pilihan**. Isi [Form Verifikasi Nilai](https://forms.gle/Rv8GYDPxr1LztyGFA) kemudian konfirmasi ke [Mas Erwan](https://api.whatsapp.com/send/?phone=%2B6285640156540&text&app_absent=0). Jika sudah diverifikasi maka hasil verifikasi akan dikirimkan ke Email yang dimasukkan saat mengisi form.
 
 Waktu pelaksanaan Seminar Tugas Akhir dilaksanakan berdasarkan keputusan Dosen Pembimbing 2 dan Mahasiswa. Jika dilaksanakan secara offline, perlu juga mengurus peminjaman ruangan. Jika online hanya perlu menyiapkan Teams.
 
