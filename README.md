@@ -36,6 +36,8 @@ Waktu pelaksanaan Seminar Tugas Akhir dilaksanakan berdasarkan keputusan Dosen P
 
 Jika seluruh berkas sudah siap, semua berkas dijadikan satu ([contoh](../main/Berkas/Example/Submit%20-%20Pengajuan%20Seminar.pdf)) dan dikirimkan ke [Form Pendaftaran Seminar](https://forms.office.com/Pages/ResponsePage.aspx?id=NQQpA3T_0UWuqhc2dyIc-Ai0q1n5FGFKk5DovX2uWAlUODU0UUtGUEtUWVNKUzhXUjZaMlhYRks1UyQlQCN0PWcu&fbclid=IwAR0Bnd0-1tBMTCFGoQbMxbGlRC9oLRW78mSeG-kURIBhb_cBH0YDGsURINE)
 
+Saat pelaksanaan seminar, dipersiapkan juga berkas :
+- [Nilai Seminar TA-4](https://github.com/alvinzf/become-a-graduate-CE-Undip/blob/main/Berkas/3.%20Pengajuan%20Sidang/(TA-04)%20Nilai%20Seminar%20TA.docx)
 ---
 
 ## Pengajuan Sidang Tugas Akhir
