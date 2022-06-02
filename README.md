@@ -49,6 +49,8 @@ Berkas yang dibutuhkan untuk Pengajuan Sidang antara lain :
 
 Berkas tersebut dijadikan satu (contoh) dan dikirim ke [Form Pengajuan Sidang](https://forms.office.com/Pages/ResponsePage.aspx?id=NQQpA3T_0UWuqhc2dyIc-Ai0q1n5FGFKk5DovX2uWAlUOFRZMU42QjAxSFo1WUUxNEZFWDNOU1RaWCQlQCN0PWcu&fbclid=IwAR02L8_R3dO1tbsAXJIyUxljZv0x59Mj3i0jiOwly1w8PltQ0Ic2wYlgzPs) dan konfirmasikan ke Bu Ike.
 
+Mahasiswa juga wajib melakukan pemeriksaan plagiarism, panduan [selengkapnya](../main/Berkas/Panduan%20Pemeriksaan%20Plagiasi%20File%20Skripsi.pdf) 
+
 ---
 
 ## Sidang Tugas Akhir
