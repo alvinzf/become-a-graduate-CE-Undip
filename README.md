@@ -82,7 +82,7 @@ Setelah pendaftaran Wisuda dilakukan di SIAP, langkah berikutnya perlu menyiapka
 - Surat Bebas Perpus, [selengkapnya](../main/Bebas_Perpus.MD)
 - Print pendaftaran wisuda dari SIAP 
 - Print blangko wisuda (foto & materai ditempel), [file](../main/Berkas/blangko_wisuda%20(2).docx)
-
+ PS : butuh cetak 2 jenis foto, foto menggunakan almamater undip dan foto menggunakan jas resmi (jas hitam)
 Terakhir, berkas tersebut tinggal dikumpulkan kepada mas Sidik.
 
 ---
