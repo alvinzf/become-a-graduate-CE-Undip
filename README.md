@@ -86,7 +86,7 @@ Setelah pendaftaran Wisuda dilakukan di SIAP, langkah berikutnya perlu menyiapka
  PS : butuh cetak 2 jenis foto, foto menggunakan almamater undip dan foto menggunakan jas resmi (jas hitam)
 Terakhir, berkas tersebut tinggal dikumpulkan kepada mas Sidik.
 
-Update -> Wisuda Periode 167 (25-29 Juli 2022) mengisi Google Form berikut [link](https://bit.ly/FormBukuAlumniFTPeriode167) and TOGA CARI SENDIRI :))))
+Update -> Wisuda Periode 167 (25-29 Juli 2022) mengisi Google Form berikut [link](https://bit.ly/FormBukuAlumniFTPeriode167) and **TOGA CARI SENDIRI** :))))
 
 ---
 
