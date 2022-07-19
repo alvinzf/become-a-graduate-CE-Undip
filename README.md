@@ -16,7 +16,7 @@ Proposal yang sudah disetujui kedua Dosen Pembimbing, kemudian dapat menghubungi
 ---
 
 ## Proses Pengerjaan Tugas Akhir
-Selama proses pengerjaan Tugas Akhir, akan dilakukan bimbingan sesuai dengan kebijakan masing-masing Dosen Pembimbing. Setiap bimbingan jangan lupa untuk membawa [Kartu Bimbingan](main/Berkas/Kartu%20Bimbingan/Kartu%20Bimbingan.docx)
+Selama proses pengerjaan Tugas Akhir, akan dilakukan bimbingan sesuai dengan kebijakan masing-masing Dosen Pembimbing. Setiap bimbingan jangan lupa untuk membawa [Kartu Bimbingan](../main/Berkas/Kartu%20Bimbingan/Kartu%20Bimbingan.docx)
 
 Jika selama proses anda merasa dosen kurang koperatif, slow respon, dan hal negatif lainnya, dapat dilakukan pergantian dosen pembimbing dengan mengisi form [berikut](../main/Berkas/(TA-01A)%20Perubahan%20TA.docx). 
 
