@@ -48,6 +48,7 @@ Berkas yang dibutuhkan untuk Pengajuan Sidang antara lain :
 - [Form Kehadiran Peserta Seminar TA-3](https://github.com/alvinzf/become-a-graduate-CE-Undip/blob/main/Berkas/3.%20Pengajuan%20Sidang/(TA-03)%20Form%20Kehadiran%20Peserta.docx)
 - [Nilai Seminar TA-4](https://github.com/alvinzf/become-a-graduate-CE-Undip/blob/main/Berkas/3.%20Pengajuan%20Sidang/(TA-04)%20Nilai%20Seminar%20TA.docx)
 - [Form Persetujuan TA-5](https://github.com/alvinzf/become-a-graduate-CE-Undip/blob/main/Berkas/3.%20Pengajuan%20Sidang/(TA-05)%20Form%20Persetujan%20Ujian%20TA.docx)
+- [Turnitin](https://github.com/alvinzf/become-a-graduate-CE-Undip/blob/main/Berkas/Panduan%20Pemeriksaan%20Plagiasi%20File%20Skripsi.pdf)
 
 Berkas tersebut dijadikan satu ([contoh](../main/Berkas/Example/Submit%20-%20Pengajuan%20Sidang.pdf)) dan dikirim ke [Form Pengajuan Sidang](https://forms.office.com/Pages/ResponsePage.aspx?id=NQQpA3T_0UWuqhc2dyIc-Ai0q1n5FGFKk5DovX2uWAlUOFRZMU42QjAxSFo1WUUxNEZFWDNOU1RaWCQlQCN0PWcu&fbclid=IwAR02L8_R3dO1tbsAXJIyUxljZv0x59Mj3i0jiOwly1w8PltQ0Ic2wYlgzPs) dan konfirmasikan ke Bu Ike.
 
