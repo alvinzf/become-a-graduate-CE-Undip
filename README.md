@@ -4,6 +4,7 @@ Tahapan dan berkas yang diperlukan dalam menyelesaikan Tugas Akhir hingga Wisuda
 ---
 
 Important
+- [Capstone](../main/Sosialisasi%20Capstone%20TA.pdf)
 - [Panduan](../main/Pedoman-TA-Siskom-2014.pdf)
 - [Chat BOT Pelayanan Akademik](https://api.whatsapp.com/send/?phone=%2B6281391366399&text&app_absent=0)
 - [Turnitin](https://drive.google.com/file/d/1oh_Q_j0SNoUawN8pnFrOSzyppICtXFYL/view)
