@@ -1,6 +1,7 @@
 ## Langkah Lulus Dari Teknik Komputer Universitas Diponegoro
 Tahapan dan berkas yang diperlukan dalam menyelesaikan Tugas Akhir hingga Wisuda. Silahkan ajukan Pull Request apabila ada update atau kesalahan informasi. Happy reading ^^
 
+Mulai Oktober 2022, terdapat mekanisme baru dalam mengerjakan Tugas Akhir, selengkapnya dapat dilihat di [Capstone TA](https://capstone-ta.ce.undip.ac.id/)
 ---
 
 Important
